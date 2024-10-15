@@ -8,24 +8,22 @@
 
             for (int i = 1; i <= n; i++)
             {
-                // In khoảng trắng để căn giữa
-                for (int j = 1; j <= n - i; j++)
+                Console.Write(new string(' ',(n-i)));
+                int num = i;
+                //In ra số tăng dần
+                for (int j = 1; j <= i; j++)
                 {
-                    Console.Write(" ");
+                    Console.Write(num % 10);
+                    num++;
                 }
-
-                // In các số tăng dần
-                for (int k = 1; k <= i; k++)
+                num -= 2;
+                //In số giảm dần
+                for (int j = 1; j < i; j++)
                 {
-                    Console.Write(k);
+                    Console.Write(num % 10);
+                    num--;
                 }
-
-                // In các số giảm dần
-                for (int l = i - 1; l >= 1; l--)
-                {
-                    Console.Write(l);
-                }
-                Console.WriteLine();
+                Console.WriteLine();// Xuống dòng
             }
         }
     }
