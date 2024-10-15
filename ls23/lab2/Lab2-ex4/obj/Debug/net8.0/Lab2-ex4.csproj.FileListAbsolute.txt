@@ -1,0 +1,15 @@
+D:\linetx\DEV_2\ls23\lab2\Lab2-ex4\bin\Debug\net8.0\Lab2-ex4.exe
+D:\linetx\DEV_2\ls23\lab2\Lab2-ex4\bin\Debug\net8.0\Lab2-ex4.deps.json
+D:\linetx\DEV_2\ls23\lab2\Lab2-ex4\bin\Debug\net8.0\Lab2-ex4.runtimeconfig.json
+D:\linetx\DEV_2\ls23\lab2\Lab2-ex4\bin\Debug\net8.0\Lab2-ex4.dll
+D:\linetx\DEV_2\ls23\lab2\Lab2-ex4\bin\Debug\net8.0\Lab2-ex4.pdb
+D:\linetx\DEV_2\ls23\lab2\Lab2-ex4\obj\Debug\net8.0\Lab2-ex4.GeneratedMSBuildEditorConfig.editorconfig
+D:\linetx\DEV_2\ls23\lab2\Lab2-ex4\obj\Debug\net8.0\Lab2-ex4.AssemblyInfoInputs.cache
+D:\linetx\DEV_2\ls23\lab2\Lab2-ex4\obj\Debug\net8.0\Lab2-ex4.AssemblyInfo.cs
+D:\linetx\DEV_2\ls23\lab2\Lab2-ex4\obj\Debug\net8.0\Lab2-ex4.csproj.CoreCompileInputs.cache
+D:\linetx\DEV_2\ls23\lab2\Lab2-ex4\obj\Debug\net8.0\Lab2-ex4.sourcelink.json
+D:\linetx\DEV_2\ls23\lab2\Lab2-ex4\obj\Debug\net8.0\Lab2-ex4.dll
+D:\linetx\DEV_2\ls23\lab2\Lab2-ex4\obj\Debug\net8.0\refint\Lab2-ex4.dll
+D:\linetx\DEV_2\ls23\lab2\Lab2-ex4\obj\Debug\net8.0\Lab2-ex4.pdb
+D:\linetx\DEV_2\ls23\lab2\Lab2-ex4\obj\Debug\net8.0\Lab2-ex4.genruntimeconfig.cache
+D:\linetx\DEV_2\ls23\lab2\Lab2-ex4\obj\Debug\net8.0\ref\Lab2-ex4.dll

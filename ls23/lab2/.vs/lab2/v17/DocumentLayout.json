@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\linetx\\DEV_2\\ls23\\lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{211D0A5E-F581-4D3E-BB98-14DD1DEBDDDC}|Lab2-ex8\\Lab2-ex8.csproj|d:\\linetx\\dev_2\\ls23\\lab2\\lab2-ex8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211D0A5E-F581-4D3E-BB98-14DD1DEBDDDC}|Lab2-ex8\\Lab2-ex8.csproj|solutionrelative:lab2-ex8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244717C4-7BBE-4934-80DC-0210FA15D722}|Lab2-ex4\\Lab2-ex4.csproj|d:\\linetx\\dev_2\\ls23\\lab2\\lab2-ex4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244717C4-7BBE-4934-80DC-0210FA15D722}|Lab2-ex4\\Lab2-ex4.csproj|solutionrelative:lab2-ex4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9576E78B-CA72-4000-887E-B720A28AC310}|Lab2-ex5\\Lab2-ex5.csproj|d:\\linetx\\dev_2\\ls23\\lab2\\lab2-ex5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9576E78B-CA72-4000-887E-B720A28AC310}|Lab2-ex5\\Lab2-ex5.csproj|solutionrelative:lab2-ex5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6BCE915-3A0C-4374-B614-BAFBAA7117D1}|Lab2-ex6\\Lab2-ex6.csproj|d:\\linetx\\dev_2\\ls23\\lab2\\lab2-ex6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6BCE915-3A0C-4374-B614-BAFBAA7117D1}|Lab2-ex6\\Lab2-ex6.csproj|solutionrelative:lab2-ex6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295087E8-205F-47FA-8B88-662420A7BDCF}|Lab2-ex7\\Lab2-ex7.csproj|d:\\linetx\\dev_2\\ls23\\lab2\\lab2-ex7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295087E8-205F-47FA-8B88-662420A7BDCF}|Lab2-ex7\\Lab2-ex7.csproj|solutionrelative:lab2-ex7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E70C97-067A-43F0-85BE-A4ACC193D20C}|Lab2-ex3\\Lab2-ex3.csproj|d:\\linetx\\dev_2\\ls23\\lab2\\lab2-ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E70C97-067A-43F0-85BE-A4ACC193D20C}|Lab2-ex3\\Lab2-ex3.csproj|solutionrelative:lab2-ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6AD988E-C8D4-4F62-B2CA-E219215B707A}|lab2-ex2\\lab2-ex2.csproj|d:\\linetx\\dev_2\\ls23\\lab2\\lab2-ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6AD988E-C8D4-4F62-B2CA-E219215B707A}|lab2-ex2\\lab2-ex2.csproj|solutionrelative:lab2-ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D2208E-2379-47FC-88BE-E7375B0E1CB0}|lab2-ex1\\lab2-ex1.csproj|d:\\linetx\\dev_2\\ls23\\lab2\\lab2-ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D2208E-2379-47FC-88BE-E7375B0E1CB0}|lab2-ex1\\lab2-ex1.csproj|solutionrelative:lab2-ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C9005C-48EF-4AA5-8633-A2B3F54162FD}|lab2\\lab2.csproj|d:\\linetx\\dev_2\\ls23\\lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C9005C-48EF-4AA5-8633-A2B3F54162FD}|lab2\\lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\linetx\\DEV_2\\ls23\\lab2\\Lab2-ex8\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2-ex8\\Program.cs",
+              "ToolTip": "D:\\linetx\\DEV_2\\ls23\\lab2\\Lab2-ex8\\Program.cs",
+              "RelativeToolTip": "Lab2-ex8\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:43:35.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\linetx\\DEV_2\\ls23\\lab2\\Lab2-ex7\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2-ex7\\Program.cs",
+              "ToolTip": "D:\\linetx\\DEV_2\\ls23\\lab2\\Lab2-ex7\\Program.cs",
+              "RelativeToolTip": "Lab2-ex7\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:38:54.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\linetx\\DEV_2\\ls23\\lab2\\Lab2-ex6\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2-ex6\\Program.cs",
+              "ToolTip": "D:\\linetx\\DEV_2\\ls23\\lab2\\Lab2-ex6\\Program.cs",
+              "RelativeToolTip": "Lab2-ex6\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:37:22.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\linetx\\DEV_2\\ls23\\lab2\\Lab2-ex5\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2-ex5\\Program.cs",
+              "ToolTip": "D:\\linetx\\DEV_2\\ls23\\lab2\\Lab2-ex5\\Program.cs",
+              "RelativeToolTip": "Lab2-ex5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:29:23.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\linetx\\DEV_2\\ls23\\lab2\\Lab2-ex4\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2-ex4\\Program.cs",
+              "ToolTip": "D:\\linetx\\DEV_2\\ls23\\lab2\\Lab2-ex4\\Program.cs",
+              "RelativeToolTip": "Lab2-ex4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:26:07.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\linetx\\DEV_2\\ls23\\lab2\\Lab2-ex3\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2-ex3\\Program.cs",
+              "ToolTip": "D:\\linetx\\DEV_2\\ls23\\lab2\\Lab2-ex3\\Program.cs",
+              "RelativeToolTip": "Lab2-ex3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:10:52.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\linetx\\DEV_2\\ls23\\lab2\\lab2-ex2\\Program.cs",
+              "RelativeDocumentMoniker": "lab2-ex2\\Program.cs",
+              "ToolTip": "D:\\linetx\\DEV_2\\ls23\\lab2\\lab2-ex2\\Program.cs",
+              "RelativeToolTip": "lab2-ex2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:04:56.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\linetx\\DEV_2\\ls23\\lab2\\lab2-ex1\\Program.cs",
+              "RelativeDocumentMoniker": "lab2-ex1\\Program.cs",
+              "ToolTip": "D:\\linetx\\DEV_2\\ls23\\lab2\\lab2-ex1\\Program.cs",
+              "RelativeToolTip": "lab2-ex1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T01:41:03.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\linetx\\DEV_2\\ls23\\lab2\\lab2\\Program.cs",
+              "RelativeDocumentMoniker": "lab2\\Program.cs",
+              "ToolTip": "D:\\linetx\\DEV_2\\ls23\\lab2\\lab2\\Program.cs",
+              "RelativeToolTip": "lab2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T01:36:48.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
