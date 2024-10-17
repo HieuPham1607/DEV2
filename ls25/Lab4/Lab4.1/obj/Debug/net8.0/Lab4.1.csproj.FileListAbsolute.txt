@@ -1,0 +1,15 @@
+D:\linetx\DEV_2\ls25\Lab4\Lab4.1\bin\Debug\net8.0\Lab4.1.exe
+D:\linetx\DEV_2\ls25\Lab4\Lab4.1\bin\Debug\net8.0\Lab4.1.deps.json
+D:\linetx\DEV_2\ls25\Lab4\Lab4.1\bin\Debug\net8.0\Lab4.1.runtimeconfig.json
+D:\linetx\DEV_2\ls25\Lab4\Lab4.1\bin\Debug\net8.0\Lab4.1.dll
+D:\linetx\DEV_2\ls25\Lab4\Lab4.1\bin\Debug\net8.0\Lab4.1.pdb
+D:\linetx\DEV_2\ls25\Lab4\Lab4.1\obj\Debug\net8.0\Lab4.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\linetx\DEV_2\ls25\Lab4\Lab4.1\obj\Debug\net8.0\Lab4.1.AssemblyInfoInputs.cache
+D:\linetx\DEV_2\ls25\Lab4\Lab4.1\obj\Debug\net8.0\Lab4.1.AssemblyInfo.cs
+D:\linetx\DEV_2\ls25\Lab4\Lab4.1\obj\Debug\net8.0\Lab4.1.csproj.CoreCompileInputs.cache
+D:\linetx\DEV_2\ls25\Lab4\Lab4.1\obj\Debug\net8.0\Lab4.1.sourcelink.json
+D:\linetx\DEV_2\ls25\Lab4\Lab4.1\obj\Debug\net8.0\Lab4.1.dll
+D:\linetx\DEV_2\ls25\Lab4\Lab4.1\obj\Debug\net8.0\refint\Lab4.1.dll
+D:\linetx\DEV_2\ls25\Lab4\Lab4.1\obj\Debug\net8.0\Lab4.1.pdb
+D:\linetx\DEV_2\ls25\Lab4\Lab4.1\obj\Debug\net8.0\Lab4.1.genruntimeconfig.cache
+D:\linetx\DEV_2\ls25\Lab4\Lab4.1\obj\Debug\net8.0\ref\Lab4.1.dll
