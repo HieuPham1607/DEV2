@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "D:\\linetx\\DEV_2\\ls25\\Lab4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3DF2F587-07FB-45AD-9CFF-D394468782E6}|Lab4-e-x3\\Lab4-e-x3.csproj|d:\\linetx\\dev_2\\ls25\\lab4\\lab4-e-x3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF2F587-07FB-45AD-9CFF-D394468782E6}|Lab4-e-x3\\Lab4-e-x3.csproj|solutionrelative:lab4-e-x3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DFDB8C-955D-48F3-90DF-CDB830682FB9}|Lab4-ex1\\Lab4-ex1.csproj|d:\\linetx\\dev_2\\ls25\\lab4\\lab4-ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DFDB8C-955D-48F3-90DF-CDB830682FB9}|Lab4-ex1\\Lab4-ex1.csproj|solutionrelative:lab4-ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF2F587-07FB-45AD-9CFF-D394468782E6}|Lab4-e-x3\\Lab4-e-x3.csproj|d:\\linetx\\dev_2\\ls25\\lab4\\lab4-e-x3\\doc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF2F587-07FB-45AD-9CFF-D394468782E6}|Lab4-e-x3\\Lab4-e-x3.csproj|solutionrelative:lab4-e-x3\\doc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF2F587-07FB-45AD-9CFF-D394468782E6}|Lab4-e-x3\\Lab4-e-x3.csproj|d:\\linetx\\dev_2\\ls25\\lab4\\lab4-e-x3\\iencryptable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF2F587-07FB-45AD-9CFF-D394468782E6}|Lab4-e-x3\\Lab4-e-x3.csproj|solutionrelative:lab4-e-x3\\iencryptable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF2F587-07FB-45AD-9CFF-D394468782E6}|Lab4-e-x3\\Lab4-e-x3.csproj|d:\\linetx\\dev_2\\ls25\\lab4\\lab4-e-x3\\isoreable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF2F587-07FB-45AD-9CFF-D394468782E6}|Lab4-e-x3\\Lab4-e-x3.csproj|solutionrelative:lab4-e-x3\\isoreable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF2F587-07FB-45AD-9CFF-D394468782E6}|Lab4-e-x3\\Lab4-e-x3.csproj|d:\\linetx\\dev_2\\ls25\\lab4\\lab4-e-x3\\lab4-e-x3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3DF2F587-07FB-45AD-9CFF-D394468782E6}|Lab4-e-x3\\Lab4-e-x3.csproj|solutionrelative:lab4-e-x3\\lab4-e-x3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A82F63BD-04C9-4D2C-BDD7-80A663342307}|Lab4-5\\Lab4-5.csproj|d:\\linetx\\dev_2\\ls25\\lab4\\lab4-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A82F63BD-04C9-4D2C-BDD7-80A663342307}|Lab4-5\\Lab4-5.csproj|solutionrelative:lab4-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,24 +54,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEncryptable.cs",
+              "DocumentMoniker": "D:\\linetx\\DEV_2\\ls25\\Lab4\\Lab4-e-x3\\IEncryptable.cs",
+              "RelativeDocumentMoniker": "Lab4-e-x3\\IEncryptable.cs",
+              "ToolTip": "D:\\linetx\\DEV_2\\ls25\\Lab4\\Lab4-e-x3\\IEncryptable.cs",
+              "RelativeToolTip": "Lab4-e-x3\\IEncryptable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:01:12.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lab4-e-x3",
+              "DocumentMoniker": "D:\\linetx\\DEV_2\\ls25\\Lab4\\Lab4-e-x3\\Lab4-e-x3.csproj",
+              "RelativeDocumentMoniker": "Lab4-e-x3\\Lab4-e-x3.csproj",
+              "ToolTip": "D:\\linetx\\DEV_2\\ls25\\Lab4\\Lab4-e-x3\\Lab4-e-x3.csproj",
+              "RelativeToolTip": "Lab4-e-x3\\Lab4-e-x3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-17T04:00:31.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Doc.cs",
+              "DocumentMoniker": "D:\\linetx\\DEV_2\\ls25\\Lab4\\Lab4-e-x3\\Doc.cs",
+              "RelativeDocumentMoniker": "Lab4-e-x3\\Doc.cs",
+              "ToolTip": "D:\\linetx\\DEV_2\\ls25\\Lab4\\Lab4-e-x3\\Doc.cs",
+              "RelativeToolTip": "Lab4-e-x3\\Doc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T03:58:51.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISoreable.cs",
+              "DocumentMoniker": "D:\\linetx\\DEV_2\\ls25\\Lab4\\Lab4-e-x3\\ISoreable.cs",
+              "RelativeDocumentMoniker": "Lab4-e-x3\\ISoreable.cs",
+              "ToolTip": "D:\\linetx\\DEV_2\\ls25\\Lab4\\Lab4-e-x3\\ISoreable.cs",
+              "RelativeToolTip": "Lab4-e-x3\\ISoreable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T03:55:35.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\linetx\\DEV_2\\ls25\\Lab4\\Lab4-e-x3\\Program.cs",
+              "RelativeDocumentMoniker": "Lab4-e-x3\\Program.cs",
+              "ToolTip": "D:\\linetx\\DEV_2\\ls25\\Lab4\\Lab4-e-x3\\Program.cs",
+              "RelativeToolTip": "Lab4-e-x3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T03:51:52.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\linetx\\DEV_2\\ls25\\Lab4\\Lab4-ex1\\Program.cs",
+              "RelativeDocumentMoniker": "Lab4-ex1\\Program.cs",
+              "ToolTip": "D:\\linetx\\DEV_2\\ls25\\Lab4\\Lab4-ex1\\Program.cs",
+              "RelativeToolTip": "Lab4-ex1\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAUwFYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T03:37:50.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\linetx\\DEV_2\\ls25\\Lab4\\Lab4-5\\Program.cs",
               "RelativeDocumentMoniker": "Lab4-5\\Program.cs",
               "ToolTip": "D:\\linetx\\DEV_2\\ls25\\Lab4\\Lab4-5\\Program.cs",
               "RelativeToolTip": "Lab4-5\\Program.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAA8wDQAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAmwDQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T02:46:49.844Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\linetx\\DEV_2\\ls25\\Lab4\\Lab4-4\\Program.cs",
               "RelativeDocumentMoniker": "Lab4-4\\Program.cs",
@@ -60,20 +162,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\linetx\\DEV_2\\ls25\\Lab4\\Lab4-3\\Program.cs",
               "RelativeDocumentMoniker": "Lab4-3\\Program.cs",
               "ToolTip": "D:\\linetx\\DEV_2\\ls25\\Lab4\\Lab4-3\\Program.cs",
               "RelativeToolTip": "Lab4-3\\Program.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAIwDoAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAywDoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T02:24:39.277Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\linetx\\DEV_2\\ls25\\Lab4\\Lab4-2\\Program.cs",
               "RelativeDocumentMoniker": "Lab4-2\\Program.cs",
@@ -86,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\linetx\\DEV_2\\ls25\\Lab4\\Lab4\\Program.cs",
               "RelativeDocumentMoniker": "Lab4\\Program.cs",
