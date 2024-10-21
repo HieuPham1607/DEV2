@@ -1,0 +1,15 @@
+D:\linetx\DEV_2\ls26\Lab5\Lab5-2\obj\Debug\net8.0\Lab5-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\linetx\DEV_2\ls26\Lab5\Lab5-2\obj\Debug\net8.0\Lab5-2.AssemblyInfoInputs.cache
+D:\linetx\DEV_2\ls26\Lab5\Lab5-2\obj\Debug\net8.0\Lab5-2.AssemblyInfo.cs
+D:\linetx\DEV_2\ls26\Lab5\Lab5-2\obj\Debug\net8.0\Lab5-2.csproj.CoreCompileInputs.cache
+D:\linetx\DEV_2\ls26\Lab5\Lab5-2\obj\Debug\net8.0\Lab5-2.sourcelink.json
+D:\linetx\DEV_2\ls26\Lab5\Lab5-2\bin\Debug\net8.0\Lab5-2.exe
+D:\linetx\DEV_2\ls26\Lab5\Lab5-2\bin\Debug\net8.0\Lab5-2.deps.json
+D:\linetx\DEV_2\ls26\Lab5\Lab5-2\bin\Debug\net8.0\Lab5-2.runtimeconfig.json
+D:\linetx\DEV_2\ls26\Lab5\Lab5-2\bin\Debug\net8.0\Lab5-2.dll
+D:\linetx\DEV_2\ls26\Lab5\Lab5-2\bin\Debug\net8.0\Lab5-2.pdb
+D:\linetx\DEV_2\ls26\Lab5\Lab5-2\obj\Debug\net8.0\Lab5-2.dll
+D:\linetx\DEV_2\ls26\Lab5\Lab5-2\obj\Debug\net8.0\refint\Lab5-2.dll
+D:\linetx\DEV_2\ls26\Lab5\Lab5-2\obj\Debug\net8.0\Lab5-2.pdb
+D:\linetx\DEV_2\ls26\Lab5\Lab5-2\obj\Debug\net8.0\Lab5-2.genruntimeconfig.cache
+D:\linetx\DEV_2\ls26\Lab5\Lab5-2\obj\Debug\net8.0\ref\Lab5-2.dll

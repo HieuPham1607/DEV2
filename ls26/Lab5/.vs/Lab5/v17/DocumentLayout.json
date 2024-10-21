@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\linetx\\DEV_2\\ls26\\Lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C62B25E3-05F2-4613-8561-415F1292F53F}|Lab5-ex1\\Lab5-ex1.csproj|d:\\linetx\\dev_2\\ls26\\lab5\\lab5-ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C62B25E3-05F2-4613-8561-415F1292F53F}|Lab5-ex1\\Lab5-ex1.csproj|solutionrelative:lab5-ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F91ECAC-7560-48F9-99E4-34C2D96B4324}|Lab5-2\\Lab5-2.csproj|d:\\linetx\\dev_2\\ls26\\lab5\\lab5-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F91ECAC-7560-48F9-99E4-34C2D96B4324}|Lab5-2\\Lab5-2.csproj|solutionrelative:lab5-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C5F3BC-08E4-4592-ACA5-CFDE1F53D488}|Lab5-3\\Lab5-3.csproj|d:\\linetx\\dev_2\\ls26\\lab5\\lab5-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C5F3BC-08E4-4592-ACA5-CFDE1F53D488}|Lab5-3\\Lab5-3.csproj|solutionrelative:lab5-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2D6A71-295D-4E91-83A7-30CA33FD6B96}|Lab5\\Lab5.csproj|d:\\linetx\\dev_2\\ls26\\lab5\\lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2D6A71-295D-4E91-83A7-30CA33FD6B96}|Lab5\\Lab5.csproj|solutionrelative:lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\linetx\\DEV_2\\ls26\\Lab5\\Lab5-ex1\\Program.cs",
+              "RelativeDocumentMoniker": "Lab5-ex1\\Program.cs",
+              "ToolTip": "D:\\linetx\\DEV_2\\ls26\\Lab5\\Lab5-ex1\\Program.cs",
+              "RelativeToolTip": "Lab5-ex1\\Program.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAswAYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T03:23:37.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\linetx\\DEV_2\\ls26\\Lab5\\Lab5-3\\Program.cs",
+              "RelativeDocumentMoniker": "Lab5-3\\Program.cs",
+              "ToolTip": "D:\\linetx\\DEV_2\\ls26\\Lab5\\Lab5-3\\Program.cs",
+              "RelativeToolTip": "Lab5-3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T02:43:33.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\linetx\\DEV_2\\ls26\\Lab5\\Lab5-2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab5-2\\Program.cs",
+              "ToolTip": "D:\\linetx\\DEV_2\\ls26\\Lab5\\Lab5-2\\Program.cs",
+              "RelativeToolTip": "Lab5-2\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T01:50:09.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\linetx\\DEV_2\\ls26\\Lab5\\Lab5\\Program.cs",
+              "RelativeDocumentMoniker": "Lab5\\Program.cs",
+              "ToolTip": "D:\\linetx\\DEV_2\\ls26\\Lab5\\Lab5\\Program.cs",
+              "RelativeToolTip": "Lab5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T01:33:13.538Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "99oTPnOaBGY=",
+  "success": true,
+  "projectFilePath": "D:\\linetx\\DEV_2\\ls26\\Lab5\\Lab5-2\\Lab5-2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\susik\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
