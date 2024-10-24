@@ -1,0 +1,15 @@
+D:\linetx\DEV_2\ls28\Lab7\Lab7-3\bin\Debug\net8.0\Lab7-3.exe
+D:\linetx\DEV_2\ls28\Lab7\Lab7-3\bin\Debug\net8.0\Lab7-3.deps.json
+D:\linetx\DEV_2\ls28\Lab7\Lab7-3\bin\Debug\net8.0\Lab7-3.runtimeconfig.json
+D:\linetx\DEV_2\ls28\Lab7\Lab7-3\bin\Debug\net8.0\Lab7-3.dll
+D:\linetx\DEV_2\ls28\Lab7\Lab7-3\bin\Debug\net8.0\Lab7-3.pdb
+D:\linetx\DEV_2\ls28\Lab7\Lab7-3\obj\Debug\net8.0\Lab7-3.GeneratedMSBuildEditorConfig.editorconfig
+D:\linetx\DEV_2\ls28\Lab7\Lab7-3\obj\Debug\net8.0\Lab7-3.AssemblyInfoInputs.cache
+D:\linetx\DEV_2\ls28\Lab7\Lab7-3\obj\Debug\net8.0\Lab7-3.AssemblyInfo.cs
+D:\linetx\DEV_2\ls28\Lab7\Lab7-3\obj\Debug\net8.0\Lab7-3.csproj.CoreCompileInputs.cache
+D:\linetx\DEV_2\ls28\Lab7\Lab7-3\obj\Debug\net8.0\Lab7-3.sourcelink.json
+D:\linetx\DEV_2\ls28\Lab7\Lab7-3\obj\Debug\net8.0\Lab7-3.dll
+D:\linetx\DEV_2\ls28\Lab7\Lab7-3\obj\Debug\net8.0\refint\Lab7-3.dll
+D:\linetx\DEV_2\ls28\Lab7\Lab7-3\obj\Debug\net8.0\Lab7-3.pdb
+D:\linetx\DEV_2\ls28\Lab7\Lab7-3\obj\Debug\net8.0\Lab7-3.genruntimeconfig.cache
+D:\linetx\DEV_2\ls28\Lab7\Lab7-3\obj\Debug\net8.0\ref\Lab7-3.dll
