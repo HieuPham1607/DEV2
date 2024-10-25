@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\linetx\\DEV_2\\ls29\\Lab8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A31F3E1-F5DF-449E-A775-101FA611176D}|Lab8\\Lab8.csproj|d:\\linetx\\dev_2\\ls29\\lab8\\lab8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A31F3E1-F5DF-449E-A775-101FA611176D}|Lab8\\Lab8.csproj|solutionrelative:lab8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D43EA57-F668-4B3E-8991-42061E317077}|Lab8-3\\Lab8-3.csproj|d:\\linetx\\dev_2\\ls29\\lab8\\lab8-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D43EA57-F668-4B3E-8991-42061E317077}|Lab8-3\\Lab8-3.csproj|solutionrelative:lab8-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D43EA57-F668-4B3E-8991-42061E317077}|Lab8-3\\Lab8-3.csproj|d:\\linetx\\dev_2\\ls29\\lab8\\lab8-3\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D43EA57-F668-4B3E-8991-42061E317077}|Lab8-3\\Lab8-3.csproj|solutionrelative:lab8-3\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06890797-52C6-4098-BDF7-6FCD653D463F}|Lab8-2\\Lab8-2.csproj|d:\\linetx\\dev_2\\ls29\\lab8\\lab8-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06890797-52C6-4098-BDF7-6FCD653D463F}|Lab8-2\\Lab8-2.csproj|solutionrelative:lab8-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Film.cs",
+              "DocumentMoniker": "D:\\linetx\\DEV_2\\ls29\\Lab8\\Lab8-3\\Film.cs",
+              "RelativeDocumentMoniker": "Lab8-3\\Film.cs",
+              "ToolTip": "D:\\linetx\\DEV_2\\ls29\\Lab8\\Lab8-3\\Film.cs",
+              "RelativeToolTip": "Lab8-3\\Film.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T02:46:58.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\linetx\\DEV_2\\ls29\\Lab8\\Lab8-3\\Program.cs",
+              "RelativeDocumentMoniker": "Lab8-3\\Program.cs",
+              "ToolTip": "D:\\linetx\\DEV_2\\ls29\\Lab8\\Lab8-3\\Program.cs",
+              "RelativeToolTip": "Lab8-3\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAuwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T02:40:47.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\linetx\\DEV_2\\ls29\\Lab8\\Lab8-2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab8-2\\Program.cs",
+              "ToolTip": "D:\\linetx\\DEV_2\\ls29\\Lab8\\Lab8-2\\Program.cs",
+              "RelativeToolTip": "Lab8-2\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T02:30:06.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\linetx\\DEV_2\\ls29\\Lab8\\Lab8\\Program.cs",
+              "RelativeDocumentMoniker": "Lab8\\Program.cs",
+              "ToolTip": "D:\\linetx\\DEV_2\\ls29\\Lab8\\Lab8\\Program.cs",
+              "RelativeToolTip": "Lab8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T01:57:28.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
