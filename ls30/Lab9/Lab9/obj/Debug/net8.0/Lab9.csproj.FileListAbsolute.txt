@@ -1,0 +1,15 @@
+D:\linetx\DEV_2\ls30\Lab9\Lab9\bin\Debug\net8.0\Lab9.exe
+D:\linetx\DEV_2\ls30\Lab9\Lab9\bin\Debug\net8.0\Lab9.deps.json
+D:\linetx\DEV_2\ls30\Lab9\Lab9\bin\Debug\net8.0\Lab9.runtimeconfig.json
+D:\linetx\DEV_2\ls30\Lab9\Lab9\bin\Debug\net8.0\Lab9.dll
+D:\linetx\DEV_2\ls30\Lab9\Lab9\bin\Debug\net8.0\Lab9.pdb
+D:\linetx\DEV_2\ls30\Lab9\Lab9\obj\Debug\net8.0\Lab9.GeneratedMSBuildEditorConfig.editorconfig
+D:\linetx\DEV_2\ls30\Lab9\Lab9\obj\Debug\net8.0\Lab9.AssemblyInfoInputs.cache
+D:\linetx\DEV_2\ls30\Lab9\Lab9\obj\Debug\net8.0\Lab9.AssemblyInfo.cs
+D:\linetx\DEV_2\ls30\Lab9\Lab9\obj\Debug\net8.0\Lab9.csproj.CoreCompileInputs.cache
+D:\linetx\DEV_2\ls30\Lab9\Lab9\obj\Debug\net8.0\Lab9.sourcelink.json
+D:\linetx\DEV_2\ls30\Lab9\Lab9\obj\Debug\net8.0\Lab9.dll
+D:\linetx\DEV_2\ls30\Lab9\Lab9\obj\Debug\net8.0\refint\Lab9.dll
+D:\linetx\DEV_2\ls30\Lab9\Lab9\obj\Debug\net8.0\Lab9.pdb
+D:\linetx\DEV_2\ls30\Lab9\Lab9\obj\Debug\net8.0\Lab9.genruntimeconfig.cache
+D:\linetx\DEV_2\ls30\Lab9\Lab9\obj\Debug\net8.0\ref\Lab9.dll
